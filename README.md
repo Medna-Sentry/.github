@@ -6,6 +6,8 @@ Welcome to **Project Sentry**—an advanced automated security system designed t
 
 **Project Sentry** is a robust security solution composed of several key components, each playing a critical role in maintaining and enhancing security:
 
+<img src="https://github.com/Medna-Sentry/.github/blob/main/Computer%20Vision.png">
+
 ### 1. Computer Vision Application
 
 Our Computer Vision Application utilizes the YOLO (You Only Look Once) engine algorithm to provide real-time object detection and identification. This sophisticated vision system enables accurate and fast recognition of objects within camera feeds, serving as the backbone for our security monitoring.
