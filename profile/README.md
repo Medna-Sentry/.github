@@ -5,6 +5,7 @@ Welcome to **Project Sentry**—an advanced automated security system designed t
 ## Overview
 
 **Project Sentry** is a robust security solution composed of several key components, each playing a critical role in maintaining and enhancing security:
+<img src="https://github.com/Medna-Sentry/.github/blob/main/Computer%20Vision.png">
 
 ### 1. Computer Vision Application
 
